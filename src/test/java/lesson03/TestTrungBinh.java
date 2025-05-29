@@ -23,6 +23,7 @@ public class TestTrungBinh {
     public void kiemTraTrungBinhCongVoiCacSoDuong() {
         List<Integer> danhSachSo = Arrays.asList(1, 2, 3, 4, 5);
         assertEquals(3.0, dichVu.tinhTrungBinhCong(danhSachSo));
+        //oki
     }
 
     @Test
