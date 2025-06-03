@@ -39,6 +39,12 @@
             <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
+        <!-- Selenium Java -->
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.20.0</version>
+        </dependency>
     </dependencies>
 
     <build>
